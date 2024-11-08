@@ -2,7 +2,7 @@
 
 # Quill - The SaaS for Students
 
-![Quill - The SaaS for Students](/.github/images/img_main.png "Quill - The SaaS for Students")
+![Quill - The SaaS for Students](https://github.com/arbab-kamal/quill/blob/main/public/thumbnail.png)
 
 <!-- Table of Contents -->
 <details>
