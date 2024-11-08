@@ -234,16 +234,6 @@ STRIPE_WEBHOOK_SECRET=whsec_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 **NOTE:** Please make sure to keep your API keys and configuration values secure and do not expose them publicly.
 
-## :camera: Screenshots
-
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
-
-![Upload PDF files](/.github/images/img2.png "Upload PDF files")
-
-![Ask any question to AI](/.github/images/img3.png "Ask any question to AI")
-
-![Buy Pro Plan](/.github/images/img4.png "Buy Pro Plan")
-
 ## :gear: Tech Stack
 
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel") [![Postgresql](https://skillicons.dev/icons?i=postgres "Postgresql")](https://www.postgresql.org/ "Postgresql")
